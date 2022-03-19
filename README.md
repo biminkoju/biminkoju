@@ -48,6 +48,6 @@ discord : `dragen#2848`
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=biminkoju&theme=radical&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biminkoju&langs_count=3&theme=radical&show_icons=true" height=200>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biminkoju&langs_count=5&theme=radical&show_icons=true%22" height=200>
 
 # UWU
